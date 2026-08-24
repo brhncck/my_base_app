@@ -1,0 +1,77 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "My Base App Dev Debug",
+      "type": "dart",
+      "request": "launch",
+      "flutterMode": "debug",
+      "program": "lib/main_dev.dart",
+      "toolArgs": ["--flavor", "dev"]
+    },
+    {
+      "name": "My Base App QA Debug",
+      "type": "dart",
+      "request": "launch",
+      "flutterMode": "debug",
+      "program": "lib/main_qa.dart",
+      "toolArgs": ["--flavor", "qa"]
+    },
+    {
+      "name": "My Base App Prod Debug",
+      "type": "dart",
+      "request": "launch",
+      "flutterMode": "debug",
+      "program": "lib/main.dart",
+      "toolArgs": ["--flavor", "prod"]
+    },
+    {
+      "name": "My Base App Dev Profile",
+      "type": "dart",
+      "request": "launch",
+      "flutterMode": "profile",
+      "program": "lib/main_dev.dart",
+      "toolArgs": ["--flavor", "dev"]
+    },
+    {
+      "name": "My Base App QA Profile",
+      "type": "dart",
+      "request": "launch",
+      "flutterMode": "profile",
+      "program": "lib/main_qa.dart",
+      "toolArgs": ["--flavor", "qa"]
+    },
+    {
+      "name": "My Base App Prod Profile",
+      "type": "dart",
+      "request": "launch",
+      "flutterMode": "profile",
+      "program": "lib/main.dart",
+      "toolArgs": ["--flavor", "prod"]
+    },
+    {
+      "name": "My Base App Dev Release",
+      "type": "dart",
+      "request": "launch",
+      "flutterMode": "release",
+      "program": "lib/main_dev.dart",
+      "toolArgs": ["--flavor", "dev"]
+    },
+    {
+      "name": "My Base App QA Release",
+      "type": "dart",
+      "request": "launch",
+      "flutterMode": "release",
+      "program": "lib/main_qa.dart",
+      "toolArgs": ["--flavor", "qa"]
+    },
+    {
+      "name": "My Base App Prod Release",
+      "type": "dart",
+      "request": "launch",
+      "flutterMode": "release",
+      "program": "lib/main.dart",
+      "toolArgs": ["--flavor", "prod"]
+    }
+  ]
+}

@@ -1,0 +1,191 @@
+{
+  "@@locale": "tr",
+  "home_page_title": "Ana Sayfa",
+  "@home_page_title": {
+    "description": "Ana Sayfa"
+  },
+  "home_greeting_label": "Merhaba, bitki sever!",
+  "@home_greeting_label": {
+    "description": "Ana sayfa selamlama etiketi"
+  },
+  "home_greeting_title": "İyi Günler! ⛅",
+  "@home_greeting_title": {
+    "description": "Ana sayfa selamlama başlığı"
+  },
+  "home_search_hint": "Bitki ara",
+  "@home_search_hint": {
+    "description": "Ana sayfa arama alanı ipucu"
+  },
+  "home_premium_title": "ÜCRETSİZ Premium Kullanılabilir",
+  "@home_premium_title": {
+    "description": "Ana sayfa premium banner başlığı"
+  },
+  "home_premium_subtitle": "Hesabını yükseltmek için dokun!",
+  "@home_premium_subtitle": {
+    "description": "Ana sayfa premium banner açıklaması"
+  },
+  "home_nav_home": "Ana Sayfa",
+  "@home_nav_home": {
+    "description": "Ana sayfa alt navigasyon ana sayfa etiketi"
+  },
+  "home_nav_diagnose": "Tanıla",
+  "@home_nav_diagnose": {
+    "description": "Ana sayfa alt navigasyon tanılama etiketi"
+  },
+  "home_nav_garden": "Bahçem",
+  "@home_nav_garden": {
+    "description": "Ana sayfa alt navigasyon bahçem etiketi"
+  },
+  "home_nav_profile": "Profil",
+  "@home_nav_profile": {
+    "description": "Ana sayfa alt navigasyon profil etiketi"
+  },
+  "paywall_title": "{appName} Premium",
+  "@paywall_title": {
+    "description": "Paywall ekranı başlığı",
+    "placeholders": {
+      "appName": {
+        "type": "String",
+        "example": "PlantApp"
+      }
+    }
+  },
+  "paywall_subtitle": "Tüm Özelliklere Eriş",
+  "@paywall_subtitle": {
+    "description": "Paywall ekranı alt başlığı"
+  },
+  "paywall_try_free_button": "3 gün ücretsiz dene",
+  "@paywall_try_free_button": {
+    "description": "Paywall ana aksiyon butonu etiketi"
+  },
+  "paywall_trial_note": "3 günlük ücretsiz deneme süresinden sonra iptal etmezsen yıllık ₺274.99 ücretlendirilirsin. Yıllık abonelik otomatik yenilenir",
+  "@paywall_trial_note": {
+    "description": "Paywall ücretsiz deneme yenileme açıklaması"
+  },
+  "paywall_terms": "Şartlar",
+  "@paywall_terms": {
+    "description": "Paywall kullanım şartları bağlantı etiketi"
+  },
+  "paywall_privacy": "Gizlilik",
+  "@paywall_privacy": {
+    "description": "Paywall gizlilik bağlantı etiketi"
+  },
+  "paywall_restore": "Geri Yükle",
+  "@paywall_restore": {
+    "description": "Paywall geri yükleme bağlantı etiketi"
+  },
+  "paywall_feature_unlimited_title": "Sınırsız",
+  "@paywall_feature_unlimited_title": {
+    "description": "Paywall sınırsız özellik başlığı"
+  },
+  "paywall_feature_unlimited_subtitle": "Bitki Tanıma",
+  "@paywall_feature_unlimited_subtitle": {
+    "description": "Paywall sınırsız özellik alt başlığı"
+  },
+  "paywall_feature_faster_title": "Daha Hızlı",
+  "@paywall_feature_faster_title": {
+    "description": "Paywall hızlı özellik başlığı"
+  },
+  "paywall_feature_faster_subtitle": "İşlem",
+  "@paywall_feature_faster_subtitle": {
+    "description": "Paywall hızlı özellik alt başlığı"
+  },
+  "paywall_monthly_title": "1 Ay",
+  "@paywall_monthly_title": {
+    "description": "Paywall aylık plan başlığı"
+  },
+  "paywall_monthly_subtitle": "₺2.99/ay, otomatik yenilenir",
+  "@paywall_monthly_subtitle": {
+    "description": "Paywall aylık plan alt başlığı"
+  },
+  "paywall_yearly_title": "1 Yıl",
+  "@paywall_yearly_title": {
+    "description": "Paywall yıllık plan başlığı"
+  },
+  "paywall_yearly_subtitle": "İlk 3 gün ücretsiz, sonra ₺529,99/yıl",
+  "@paywall_yearly_subtitle": {
+    "description": "Paywall yıllık plan alt başlığı"
+  },
+  "paywall_yearly_badge": "%50 Tasarruf",
+  "@paywall_yearly_badge": {
+    "description": "Paywall yıllık plan indirim etiketi"
+  },
+  "get_started_title": "{appName}'e hoş geldin",
+  "@get_started_title": {
+    "description": "Başlangıç ekranı başlığı",
+    "placeholders": {
+      "appName": {
+        "type": "String",
+        "example": "PlantApp"
+      }
+    }
+  },
+  "get_started_subtitle": "3000'den fazla bitkiyi %88 doğrulukla tanımla.",
+  "@get_started_subtitle": {
+    "description": "Başlangıç ekranı açıklaması"
+  },
+  "get_started_button": "Başla",
+  "@get_started_button": {
+    "description": "Başlangıç butonu etiketi"
+  },
+  "get_started_terms_prefix": "Devam ederek PlantID kullanım koşullarını kabul etmiş olursun",
+  "@get_started_terms_prefix": {
+    "description": "Başlangıç ekranındaki yasal bağlantılardan önceki metin"
+  },
+  "get_started_terms_of_use": "Kullanım Koşulları",
+  "@get_started_terms_of_use": {
+    "description": "Kullanım koşulları bağlantı etiketi"
+  },
+  "get_started_privacy_policy": "Gizlilik Politikası",
+  "@get_started_privacy_policy": {
+    "description": "Gizlilik politikası bağlantı etiketi"
+  },
+  "onboarding_first_title_prefix": "Bitkiyi ",
+  "@onboarding_first_title_prefix": {
+    "description": "İlk onboarding başlığında vurgulu kelimeden önceki metin"
+  },
+  "onboarding_first_title_highlight": "tanımlamak",
+  "@onboarding_first_title_highlight": {
+    "description": "İlk onboarding başlığındaki vurgulu kelime"
+  },
+  "onboarding_first_title_suffix": " için fotoğraf çek!",
+  "@onboarding_first_title_suffix": {
+    "description": "İlk onboarding başlığında vurgulu kelimeden sonraki metin"
+  },
+  "onboarding_second_title_prefix": "Bitki ",
+  "@onboarding_second_title_prefix": {
+    "description": "İkinci onboarding başlığında vurgulu kelimeden önceki metin"
+  },
+  "onboarding_second_title_highlight": "bakım rehberleri",
+  "@onboarding_second_title_highlight": {
+    "description": "İkinci onboarding başlığındaki vurgulu kelime"
+  },
+  "onboarding_second_title_suffix": " al",
+  "@onboarding_second_title_suffix": {
+    "description": "İkinci onboarding başlığında vurgulu kelimeden sonraki metin"
+  },
+  "onboarding_continue_button": "Devam Et",
+  "@onboarding_continue_button": {
+    "description": "Onboarding devam butonu etiketi"
+  },
+  "profile_dark_mode": "Karanlık Mod",
+  "@profile_dark_mode": {
+    "description": "Karanlık Mod"
+  },
+  "profile_language": "Dil",
+  "@profile_language": {
+    "description": "Dil"
+  },
+  "profile_language_sheet_title": "Dil Seçimi",
+  "@profile_language_sheet_title": {
+    "description": "Dil Seçimi"
+  },
+  "profile_language_tr": "Türkçe",
+  "@profile_language_tr": {
+    "description": "Türkçe"
+  },
+  "profile_language_en": "English",
+  "@profile_language_en": {
+    "description": "English"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "@@locale": "en",
+  "home_page_title": "Home",
+  "@home_page_title": {
+    "description": "Home"
+  },
+  "home_greeting_label": "Hi, plant lover!",
+  "@home_greeting_label": {
+    "description": "Home greeting label"
+  },
+  "home_greeting_title": "Good Afternoon! ⛅",
+  "@home_greeting_title": {
+    "description": "Home greeting title"
+  },
+  "home_search_hint": "Search for plants",
+  "@home_search_hint": {
+    "description": "Home search input hint"
+  },
+  "home_premium_title": "FREE Premium Available",
+  "@home_premium_title": {
+    "description": "Home premium banner title"
+  },
+  "home_premium_subtitle": "Tap to upgrade your account!",
+  "@home_premium_subtitle": {
+    "description": "Home premium banner subtitle"
+  },
+  "home_nav_home": "Home",
+  "@home_nav_home": {
+    "description": "Home bottom navigation home label"
+  },
+  "home_nav_diagnose": "Diagnose",
+  "@home_nav_diagnose": {
+    "description": "Home bottom navigation diagnose label"
+  },
+  "home_nav_garden": "My Garden",
+  "@home_nav_garden": {
+    "description": "Home bottom navigation garden label"
+  },
+  "home_nav_profile": "Profile",
+  "@home_nav_profile": {
+    "description": "Home bottom navigation profile label"
+  },
+  "paywall_title": "{appName} Premium",
+  "@paywall_title": {
+    "description": "Paywall screen title",
+    "placeholders": {
+      "appName": {
+        "type": "String",
+        "example": "PlantApp"
+      }
+    }
+  },
+  "paywall_subtitle": "Access All Features",
+  "@paywall_subtitle": {
+    "description": "Paywall screen subtitle"
+  },
+  "paywall_try_free_button": "Try free for 3 days",
+  "@paywall_try_free_button": {
+    "description": "Paywall primary action button label"
+  },
+  "paywall_trial_note": "After the 3-day free trial period you’ll be charged ₺274.99 per year unless you cancel before the trial expires. Yearly Subscription is Auto-Renewable",
+  "@paywall_trial_note": {
+    "description": "Paywall free trial renewal disclosure"
+  },
+  "paywall_terms": "Terms",
+  "@paywall_terms": {
+    "description": "Paywall terms link label"
+  },
+  "paywall_privacy": "Privacy",
+  "@paywall_privacy": {
+    "description": "Paywall privacy link label"
+  },
+  "paywall_restore": "Restore",
+  "@paywall_restore": {
+    "description": "Paywall restore link label"
+  },
+  "paywall_feature_unlimited_title": "Unlimited",
+  "@paywall_feature_unlimited_title": {
+    "description": "Paywall unlimited feature title"
+  },
+  "paywall_feature_unlimited_subtitle": "Plant Identify",
+  "@paywall_feature_unlimited_subtitle": {
+    "description": "Paywall unlimited feature subtitle"
+  },
+  "paywall_feature_faster_title": "Faster",
+  "@paywall_feature_faster_title": {
+    "description": "Paywall faster feature title"
+  },
+  "paywall_feature_faster_subtitle": "Process",
+  "@paywall_feature_faster_subtitle": {
+    "description": "Paywall faster feature subtitle"
+  },
+  "paywall_monthly_title": "1 Month",
+  "@paywall_monthly_title": {
+    "description": "Paywall monthly plan title"
+  },
+  "paywall_monthly_subtitle": "$2.99/month, auto renewable",
+  "@paywall_monthly_subtitle": {
+    "description": "Paywall monthly plan subtitle"
+  },
+  "paywall_yearly_title": "1 Year",
+  "@paywall_yearly_title": {
+    "description": "Paywall yearly plan title"
+  },
+  "paywall_yearly_subtitle": "First 3 days free, then $529,99/year",
+  "@paywall_yearly_subtitle": {
+    "description": "Paywall yearly plan subtitle"
+  },
+  "paywall_yearly_badge": "Save 50%",
+  "@paywall_yearly_badge": {
+    "description": "Paywall yearly plan discount badge"
+  },
+  "get_started_title": "Welcome to {appName}",
+  "@get_started_title": {
+    "description": "Get started screen title",
+    "placeholders": {
+      "appName": {
+        "type": "String",
+        "example": "PlantApp"
+      }
+    }
+  },
+  "get_started_subtitle": "Identify more than 3000+ plants and 88% accuracy.",
+  "@get_started_subtitle": {
+    "description": "Get started screen subtitle"
+  },
+  "get_started_button": "Get Started",
+  "@get_started_button": {
+    "description": "Get started button label"
+  },
+  "get_started_terms_prefix": "By tapping next, you are agreeing to PlantID",
+  "@get_started_terms_prefix": {
+    "description": "Prefix text before legal links on get started screen"
+  },
+  "get_started_terms_of_use": "Terms of Use",
+  "@get_started_terms_of_use": {
+    "description": "Terms of use link label"
+  },
+  "get_started_privacy_policy": "Privacy Policy",
+  "@get_started_privacy_policy": {
+    "description": "Privacy policy link label"
+  },
+  "onboarding_first_title_prefix": "Take a photo to ",
+  "@onboarding_first_title_prefix": {
+    "description": "First onboarding title text before highlighted word"
+  },
+  "onboarding_first_title_highlight": "identify",
+  "@onboarding_first_title_highlight": {
+    "description": "Highlighted word in first onboarding title"
+  },
+  "onboarding_first_title_suffix": " the plant!",
+  "@onboarding_first_title_suffix": {
+    "description": "First onboarding title text after highlighted word"
+  },
+  "onboarding_second_title_prefix": "Get plant ",
+  "@onboarding_second_title_prefix": {
+    "description": "Second onboarding title text before highlighted word"
+  },
+  "onboarding_second_title_highlight": "care guides",
+  "@onboarding_second_title_highlight": {
+    "description": "Highlighted word in second onboarding title"
+  },
+  "onboarding_second_title_suffix": "",
+  "@onboarding_second_title_suffix": {
+    "description": "Second onboarding title text after highlighted word"
+  },
+  "onboarding_continue_button": "Continue",
+  "@onboarding_continue_button": {
+    "description": "Onboarding continue button label"
+  },
+  "profile_dark_mode": "Dark Mode",
+  "@profile_dark_mode": {
+    "description": "Dark Mode"
+  },
+  "profile_language": "Language",
+  "@profile_language": {
+    "description": "Language"
+  },
+  "profile_language_sheet_title": "Language Selection",
+  "@profile_language_sheet_title": {
+    "description": "Language Selection"
+  },
+  "profile_language_tr": "Turkish",
+  "@profile_language_tr": {
+    "description": "Turkish"
+  },
+  "profile_language_en": "English",
+  "@profile_language_en": {
+    "description": "English"
+  }
+}
