@@ -1,5 +1,5 @@
 name: my_base_app
-description: "A new Flutter project."
+description: "Flutter starter app with dev/qa/prod flavors, BLoC, DI, routing, theming and localization."
 publish_to: 'none'
 version: 0.1.0+1
 
